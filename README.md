@@ -48,9 +48,8 @@ To submit your solution for all 4 problems, please follow these steps:
 - You should see a prompt to create a pull request. Click on "Compare & pull request".
 - Provide a title and description for your pull request, then click "Create pull request".
 
-### Step 8: Notify Codeline
-- Notify codeline via email that you have submitted your solution at (hello.world@codeline.rihal.om)
-
+### Step 8: Notify 
+- Notify (hello.world@codeline.rihal.om) that you have submitted a solution
 ## Note: If you face any issues in the process above, Please do the following:
 - Watch [this youtube tutorial](https://www.youtube.com/watch?v=a_FLqX3vGR4)
-- Contact Codeline via email. (hello.world@codeline.rihal.om)
+- Contact (hello.world@codeline.rihal.om)
